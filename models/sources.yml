@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: demo
+    database: DEMO_TRAIN  
+    schema: DEMO_SCHEMA  
+    tables:
+      - name: weather
